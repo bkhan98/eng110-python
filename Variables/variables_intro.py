@@ -55,11 +55,14 @@
 #
 # print_f_string = f"There are {number} {fruit}."
 # print(print_f_string)
+#
+# name=input("What is your name?/n ")
+# print(name)
+# # \n means new line
 
-name=input("What is your name?/n ")
-print(name)
-# \n means new line
 
+# name_1=input("What is your name?\n ")
+# print(name_1)
 
-name_1=input("What is your name?\n ")
-print(name_1)
+print(input("Enter your name? \n"))
+print(input("what your age? \n"))
